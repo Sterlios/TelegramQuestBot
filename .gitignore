@@ -1,0 +1,48 @@
+# Visual Studio / ReSharper / Rider / Intellisense
+*.obj
+*.pdb
+*.cache
+*.dll
+*.exe
+*.suo
+*.user
+*.opensdf
+*.log
+*.vs/
+_ReSharper*/
+_TeamCity*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Other files and folders
+[Tt]humbs.db
+[Tt]est[Rr]esult*/
+*.userprefs
+*.bak
+*.tmp
+*.orig
+*.csproj.user
+*.docstates.suo
+
+# NuGet
+packages/
+*.nupkg
+*.paket/paket.exe
+
+# MSTest
+testresults/
+[Bb]uild[Ll]og.*
+
+# StyleCop
+StyleCopReport.xml
+StyleCopViolations.xml
+
+# GitVersion
+GitVersionCache/
